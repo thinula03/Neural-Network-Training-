@@ -3,7 +3,7 @@ num_users = 10;
 categories = {'Acc_TimeD_FDay', 'Acc_TimeD_MDay'};
 
 % Base path for data files
-base_path = '/Users/thinuladamsith/Documents/MATLAB/data/';
+base_path = '/MATLAB/data/';
 
 % Initialize variables for training and testing data
 trainFeatures = [];
